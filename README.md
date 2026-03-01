@@ -39,8 +39,6 @@ Outputs:
 ## With LangGraph (full agentic mode)
 
 ```bash
-# Set your API key
-export ANTHROPIC_API_KEY=sk-ant-...
 
 # Run the full agent
 python -m src.agent --input data/your_claims_file.xlsx --output output/exhibit.xlsx
