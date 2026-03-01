@@ -36,7 +36,7 @@ Outputs:
 
 ---
 
-## With LangGraph + Claude AI (full agentic mode)
+## With LangGraph (full agentic mode)
 
 ```bash
 # Set your API key
