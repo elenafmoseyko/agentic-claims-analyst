@@ -1,0 +1,21 @@
+# Core data processing
+pandas>=2.0
+openpyxl>=3.1
+numpy>=1.24
+
+# Visualization (for standalone scripts)
+matplotlib>=3.7
+seaborn>=0.12
+
+# LangGraph agent (optional — only needed for src/agent.py)
+langchain>=0.2
+langchain-anthropic>=0.1
+langgraph>=0.2
+
+# PDF support (optional — for reading PDF inputs)
+pdfplumber>=0.10
+pypdf>=4.0
+
+# Dev / testing
+pytest>=7.0
+python-dotenv>=1.0
